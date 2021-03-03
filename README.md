@@ -5,3 +5,7 @@ I'm a curious person and I am learning new things everyday, not by chance my mot
 
 🔭 I’m currently working on my thesis which relates to textual explainability of deepfakes
 
+</br>
+<a href="https://www.linkedin.com/in/francesco-alongi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
